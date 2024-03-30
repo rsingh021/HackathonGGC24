@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082378510316",
+    "project_id": "ggchackathon24",
+    "storage_bucket": "ggchackathon24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082378510316:android:78499061ee782771c36ac9",
+        "android_client_info": {
+          "package_name": "com.example.hackathonggc24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhyparTlxCM4ZBkCllgwtveK6i9zDTSvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
